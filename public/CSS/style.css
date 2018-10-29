@@ -1,0 +1,124 @@
+.home {
+	height: 90vh;
+	background: 
+	/* linear-gradient(rgba(110, 110, 110, 0.2), rgba(110, 110, 110, 0.2)), */ url('../assets/backgrounds/hero.jpg')
+		no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+.title {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-weight: 300;
+}
+.bar {
+	height: 12vh;
+	width: 100%;
+	background-color: #c6bfa5;
+	padding-left: 10%;
+}
+.mybtn {
+	background-color: #661a00;
+	font-size: 14px;
+	color: white;
+	width: 15vw;
+	height: 45px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-weight: 400;
+}
+.category {
+	padding-bottom: 10%;
+}
+hr {
+	border: none;
+	height: 1px;
+	color: #333;
+	background-color: #333;
+	margin-left: 7.5%;
+}
+.home-headline {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-size: 24px;
+	/* margin: auto;
+	margin-top: 10px; */
+}
+.mycard {
+	height: 100%;
+	/* width: 80%; */
+	background-color: whitesmoke;
+}
+.card_size_text {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-size: 15px;
+}
+.card_footer_text {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-size: 15px;
+	color: #a99b76;
+}
+.card_price {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-size: 16px;
+}
+.about_img {
+	height: 50vh;
+	background: 
+	/* linear-gradient(rgba(110, 110, 110, 0.2), rgba(110, 110, 110, 0.2)), */ url('../assets/backgrounds/about.jpg')
+		no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+.about_txt {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+	line-height: 1.6;
+}
+.mini_footer {
+	background-color: #535154;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.mini_footer_txt {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-size: 16px;
+	margin-left: 80px;
+	font-weight: 400;
+}
+.footer {
+	background-color: #414141;
+	color: white;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 1%
+}
+.footer_txt {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 1.5;
+}
+.footer_txt_bold{
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+}
